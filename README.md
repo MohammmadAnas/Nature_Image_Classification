@@ -24,6 +24,11 @@ there are six classes of Nature Images:
 
 I trained multiple model for the project. The dataset is subdivided into catogeries for training within each categories for training, validation and test.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## PLEASE NOTE: The model's tflite and h5 form and the dataset can be found under the releases which is on the right side of the screen just below the about heading.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Run with Docker
 
