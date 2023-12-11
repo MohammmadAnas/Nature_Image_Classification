@@ -1,7 +1,7 @@
 # Nature_Image_Classification
 HI this is an Image Classification Model.
 
-## In this project we are trying to build a image classification model to classify Images of Nature.
+## In this project we are trying to build a image classification model to classify Images of Nature. The model is deployed on AWS.
 
 ## Data
 
